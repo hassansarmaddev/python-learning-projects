@@ -1,0 +1,20 @@
+Welcome back, what is a file? 
+It's just a collection of data 
+saved on a hard disk or other storage that persists over time.
+A file has a name, 
+and files can be organized into folders or directories.
+We'll be working with text files as opposed to images or 
+sounds or videos. Here, we have an example of a 
+file called olympics.text that is available to us 
+in Runestone. 
+Each line has information about
+one athlete's participation 
+in the Olympics. It's actually 
+a simulated file. Runestone can't access the real 
+files on your computer for security and privacy reasons. 
+So we simulate the presence of 
+a few files in the Runestone environment so we can 
+illustrate how file reading works. Python provides 
+some functions for reading data from an existing file. 
+There are two steps. First, 
+you call the open function to open the file.
