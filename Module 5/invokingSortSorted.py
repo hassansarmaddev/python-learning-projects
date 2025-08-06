@@ -118,7 +118,17 @@ from highest to lowest, and save this as a new list called nums_sorted.'''
 
 # # print(nums_sorted)
     
-    
+'''3. Below, we have provided a list of strings called nums.'''
+
+L = ['E', 'A', 'C', 'B', 'D']
+
+d = {}
+for x in L:
+    if x in d:
+        d[x] += 1
+    else:
+        
+        
 
 
 
